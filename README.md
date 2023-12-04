@@ -13,3 +13,4 @@ Steps:
 6. you may look at logs.log for more exaamples. Enter an error message similar to the ones you see.
 7. click on submit. you would see the source application and the impacted ones
 
+NOTE: use the commented out API key in main.py if the current one expires
