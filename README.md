@@ -1,6 +1,7 @@
 # FBI
 
-install requirements from requirements.txt. Run the following command after running cmd in your root folder of the project
+install requirements from requirements.txt. 
+Run the following command after running cmd in your root folder of the project:
 pip install -r requirements.txt
 
 Steps:
