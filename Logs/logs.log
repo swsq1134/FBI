@@ -1,0 +1,101 @@
+03/22 08:51:01 ERROR   :The key USD/EUR not found in dictionary
+03/22 08:51:01 ERROR   :The key USD/SGD not found in dictionary
+03/22 08:51:01 ERROR   :The key INR/EUR not found in dictionary
+03/22 08:51:01 ERROR   :The key USD/INR not found in dictionary
+03/22 08:51:01 ERROR   :The key CZK/EUR not found in dictionary
+03/22 08:51:01 ERROR   :TEMPLATE FOR FxVanillaOption NOT FOUND
+03/22 08:51:01 ERROR   :TEMPLATE FOR IrdSwap NOT FOUND
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty FNAC
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty GOLDLPNY
+03/22 08:51:01 ERROR   :Did not manage to compute risk indicators. ARD application failed with the following exception: no override method found for FxVanillaOption
+03/22 08:51:01 ERROR   :Did not manage to compute risk indicators. ARD application failed with the following exception: The key USD/SGD not found in dictionary
+03/22 08:51:01 ERROR   :Market Curves not found for USD/EUR
+03/22 08:51:01 ERROR   :Market Curves not found for USD/SGD
+03/22 08:51:01 ERROR   :Market Curves not found for INR/SGD
+03/22 08:51:01 ERROR   :endpoint not responding while saving document
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-12111211 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-12111876876876211 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-655 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-444 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-4354 not found
+03/22 08:51:01 ERROR   :The key USD/EUR not found in dictionary
+03/22 08:51:01 ERROR   :The key USD/SGD not found in dictionary
+03/22 08:51:01 ERROR   :The key INR/EUR not found in dictionary
+03/22 08:51:01 ERROR   :The key USD/INR not found in dictionary
+03/22 08:51:01 ERROR   :The key CZK/EUR not found in dictionary
+03/22 08:51:01 ERROR   :The key USD/SGD not found in dictionary
+03/22 08:51:01 ERROR   :The key INR/EUR not found in dictionary
+03/22 08:51:01 ERROR   :The key USD/INR not found in dictionary
+03/22 08:51:01 ERROR   :The key CZK/EUR not found in dictionary
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty FNAC
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty GOLDLPNY
+03/22 08:51:01 ERROR   :Did not manage to compute risk indicators. ARD application failed with the following exception: no override method found for FxVanillaOption
+03/22 08:51:01 ERROR   :Did not manage to compute risk indicators. ARD application failed with the following exception: The key USD/INR not found in dictionary
+03/22 08:51:01 ERROR   :Market Curves not found for USD/EUR
+03/22 08:51:01 ERROR   :Market Curves not found for USD/SGD
+03/22 08:51:01 ERROR   :Market Curves not found for INR/SGD
+03/22 08:51:01 ERROR   :endpoint not responding while saving document
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-12111211 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-12111876876876211 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-655 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-444 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-4354 not found
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty FNAC
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty GOLDLPNY
+03/22 08:51:01 ERROR   :Did not manage to compute risk indicators. ARD application failed with the following exception: no override method found for FxoTargetAccumlator
+03/22 08:51:01 ERROR   :Did not manage to compute risk indicators. ARD application failed with the following exception: The key CZK/EUR not found in dictionary
+03/22 08:51:01 ERROR   :Market Curves not found for USD/EUR
+03/22 08:51:01 ERROR   :Market Curves not found for USD/SGD
+03/22 08:51:01 ERROR   :Market Curves not found for INR/SGD
+03/22 08:51:01 ERROR   :endpoint not responding while saving document
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-12111211 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-12111876876876211 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-655 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-444 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-4354 not found
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty FNAC
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-4354 not found
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty FNAC
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty GOLDLPNY
+03/22 08:51:01 ERROR   :Did not manage to compute risk indicators. ARD application failed with the following exception: no override method found for FxVanillaOption
+03/22 08:51:01 ERROR   :Did not manage to compute risk indicators. ARD application failed with the following exception: The key USD/EUR not found in dictionary
+03/22 08:51:01 ERROR   :Market Curves not found for USD/EUR
+03/22 08:51:01 ERROR   :Market Curves not found for USD/SGD
+03/22 08:51:01 ERROR   :Market Curves not found for INR/SGD
+03/22 08:51:01 ERROR   :endpoint not responding while saving document
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-12111211 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-12111876876876211 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-655 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-444 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-4354 not found
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty FNAC
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty GOLDLPNY
+03/22 08:51:01 ERROR   :Did not manage to compute risk indicators. ARD application failed with the following exception: no override method found for FxVanillaOption
+03/22 08:51:01 ERROR   :Did not manage to compute risk indicators. ARD application failed with the following exception: The key USD/EUR not found in dictionary
+03/22 08:51:01 ERROR   :Market Curves not found for USD/EUR
+03/22 08:51:01 ERROR   :Market Curves not found for USD/SGD
+03/22 08:51:01 ERROR   :Market Curves not found for INR/SGD
+03/22 08:51:01 ERROR   :endpoint not responding while saving document
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-12111211 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-12111876876876211 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-655 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-444 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-12111876876876211 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-655 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-444 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-4354 not found
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty FNAC
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-4354 not found
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty FNAC
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty GOLDLPNY
+03/22 08:51:01 ERROR   :Did not manage to compute risk indicators. ARD application failed with the following exception: no override method found for FxSwap
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-12111876876876211 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-655 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-444 not found
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-4354 not found
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty FNAC
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-4354 not found
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty FNAC
+03/22 08:51:01 ERROR   :No Regulatory Eligibilities found for cpty GOLDLPNY
+03/22 08:51:01 ERROR   :Did not manage to compute risk indicators. ARD application failed with the following exception: no override method found for IrdSwap
+03/22 08:51:01 ERROR   :Error 404- url -sgmarkets/priips/kid/kidid/kid-4354 not found

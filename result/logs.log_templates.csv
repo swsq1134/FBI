@@ -1,0 +1,10 @@
+EventId,EventTemplate,Occurrences
+738a9869,The key <*> not found in dictionary,13
+a46b5561,TEMPLATE FOR <*> NOT FOUND,2
+1d30e254,No Regulatory Eligibilities found for cpty <*>,17
+06982db0,Did not manage to compute risk indicators. ARD application failed with the following exception: no override method found for <*>,7
+49432a7a,Did not manage to compute risk indicators. ARD application failed with the following exception: The key <*> not found in dictionary,5
+f440bbb2,Market Curves not found for <*>,15
+77981d57,endpoint not responding while saving document,5
+0211dfac,Error 404- url <*> not found,36
+b7fd4383,The key CZK/EUR not found in dictionary03/22 08:51:01 ERROR :The key USD/EUR not found in dictionary,1
