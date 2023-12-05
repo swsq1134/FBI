@@ -14,3 +14,5 @@ Steps:
 7. click on submit. you would see the source application and the impacted ones
 
 NOTE: use the commented out API key in main.py if the current one expires
+
+![image](https://github.com/swsq1134/FBI/assets/51440121/834938bb-b499-4059-9b6a-5e62f0cee079)
