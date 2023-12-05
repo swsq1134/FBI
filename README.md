@@ -16,3 +16,9 @@ Steps:
 NOTE: use the commented out API key in main.py if the current one expires
 
 ![image](https://github.com/swsq1134/FBI/assets/51440121/834938bb-b499-4059-9b6a-5e62f0cee079)
+
+![image](https://github.com/swsq1134/FBI/assets/51440121/73385c63-30a8-4e22-99e5-5c3faac57cec)
+
+![image](https://github.com/swsq1134/FBI/assets/51440121/d6ab67f8-aae2-4ccf-9d38-ce468e71cd90)
+
+
